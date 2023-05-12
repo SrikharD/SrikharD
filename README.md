@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Srikhar Dogiparthy</h1>
 <h3 align="center">Gonna Be Working on Whatever I got on my Mind.</h3>
 <img align="right" alt="Coding" width ="400" src ="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
@@ -40,3 +40,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikhard&show_icons=true&locale=en" alt="srikhard" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikhard&" alt="srikhard" /></p>
+ -->
+ 
+ 
+<!-- [![@SrikharD's Holopin board]()](https://holopin.io/@SrikharD) -->
+
+
+
+![metrics](github-metrics.svg)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/dvnss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee Srikhar" /></a></p><br><br>
