@@ -3,7 +3,7 @@
 <h3 align="center">Will Be Working on Whatever I got on my Mind.</h3>
 <p> <img align="center" alt="Coding" width ="400" src ="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 <!-- ![image] -->
-<!-- <img align ="left" src= "https://github.com/SrikharD/SrikharD/assets/114123653/b923d426-95e9-451f-8315-a24757a1214d"> </p> -->
+<!-- <img align ="center" src= "https://github.com/SrikharD/SrikharD/assets/114123653/b923d426-95e9-451f-8315-a24757a1214d"> </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikhard&label=Profile%20views&color=0e75b6&style=flat" alt="srikhard" /> </p>
 
@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on **FocusBuddy**
 
-- 🌱 I’m currently learning **Android Development, Bootstrap, React.js**
+- 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **C/C++, Python, HTML, CSS**
+- 💬 Ask me about **C/C++, Python, Web.Dev**
 
 - 📫 How to reach me **dogiparthysrikhar@gmail.com**
 
@@ -37,8 +37,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dvnss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dvnss" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikhard&show_icons=true&locale=en&layout=compact" alt="srikhard" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikhard&show_icons=true&locale=en" alt="srikhard" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikhard&" alt="srikhard" /></p>
