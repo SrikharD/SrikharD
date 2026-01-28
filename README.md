@@ -1,15 +1,13 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 <h1 align="center">Hi 👋, I'm Srikhar Dogiparthy</h1>
 <h3 align="center">Will be working on whatever I got on my mind.</h3>
-<!-- <p> <img align="center" alt="Coding" width ="400" src ="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif"> -->
+<p> <img align="center" alt="Coding" width ="400" src ="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 <!-- ![image] -->
 <!-- <img align ="center" src= "https://github.com/SrikharD/SrikharD/assets/114123653/b923d426-95e9-451f-8315-a24757a1214d"> </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikhard&label=Profile%20views&color=0e75b6&style=flat" alt="srikhard" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikhard" alt="srikhard" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dvns_s" target="blank"><img src="https://img.shields.io/twitter/follow/dvns_s?logo=twitter&style=for-the-badge" alt="dvns_s" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikhard" alt="srikhard" /></a> </p> -->
 
 - 🔭 I’m currently working on **Alumni Management System**
 
