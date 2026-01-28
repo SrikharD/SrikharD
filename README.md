@@ -11,15 +11,15 @@
 
 <p align="left"> <a href="https://twitter.com/dvns_s" target="blank"><img src="https://img.shields.io/twitter/follow/dvns_s?logo=twitter&style=for-the-badge" alt="dvns_s" /></a> </p>
 
-- 🔭 I’m currently working on **FocusBuddy**
+- 🔭 I’m currently working on **Alumni Management System**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Sales Force**
 
-- 💬 Ask me about **C/C++, Python, Web.Dev**
+- 💬 Ask me about **SQL, ASP Dotnet**
 
 - 📫 How to reach me **dogiparthysrikhar@gmail.com**
 
-- ⚡ Fun fact **`At MASTERED Level.**
+- ⚡ Fun fact **`At MASTERING Level.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
