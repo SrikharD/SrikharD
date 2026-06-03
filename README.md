@@ -6,7 +6,7 @@ I write C# for a living (well, for studying). <br/>
 I build management systems, wire up databases, <br/>
 and occasionally question my own architecture decisions.
 
-Currently shipping an **Alumni Management System** <br/>
+Just shipped an **Alumni Management System** <br/>
 and getting familiar with **Salesforce**.
 
 <br/>
